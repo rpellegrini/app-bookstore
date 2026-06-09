@@ -40,7 +40,7 @@ http://localhost:8080
 ![Cadastro de Livros](docs/images/cadastro_livro.png)
 
 ## Listagem dos Livros
-![Listagem](docs/images/listagem_livro.png)
+![Listagem de Livros](docs/images/listagem_livro.png)
 
 ## Autor
 
