@@ -36,6 +36,12 @@ docker compose exec laravel_app php artisan migrate
 ## 7. Acessar o sistema:
 http://localhost:8080
 
+## Cadastro de Livros
+![Cadastro de Livros](docs/images/cadastro_livro.png)
+
+## Listagem dos Livros
+![Listagem](docs/images/listagem_livro.png)
+
 ## Autor
 
 Rodrigo Pellegrini
