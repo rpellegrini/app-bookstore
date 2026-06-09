@@ -12,6 +12,12 @@ Sistema desenvolvido em Laravel para gerenciamento de Livros, Autores e Assuntos
 * Bootstrap
 * AdminLTE
 
+## Demonstração Online
+
+Sistema disponível para acesso em:
+
+**URL:** http://45.55.69.108/
+
 # Script de Instalação
 ## 1. Clonar o projeto
 
